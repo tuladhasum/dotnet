@@ -1,5 +1,7 @@
 # Abstract Class
 
+[.NET Source](https://dotnetcademy.net/Learn/2045/Pages/12)
+
 ## The abstract keyword
 
 There is a special modifier abstract which allows us to enforce certain semantics on the structure and use of our base classes. This is applied in two ways, either to the class declaration itself, or to type members, such as methods or properties.
