@@ -7,3 +7,4 @@ dotnet revision
 - [.NET Fiddle](https://dotnetfiddle.net/)
 - [Entity Framework Classic](https://entityframework-classic.net/online-examples)
 - [dot net perls](https://www.dotnetperls.com/)
+- [Entity Framework Tutorial](https://www.entityframeworktutorial.net/)
